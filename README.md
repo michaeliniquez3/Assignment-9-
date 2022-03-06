@@ -5,3 +5,6 @@
 
 To get to an interactive verison of this, click here: 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaeliniquez3/Assignment-9-.git/HEAD)
+
+To get to the Blog click here: 
+https://michaeliniquez3.github.io/Assignment9/
