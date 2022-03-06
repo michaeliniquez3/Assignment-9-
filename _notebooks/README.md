@@ -1,14 +1,10 @@
-# Auto-convert Jupyter Notebooks To Posts
+# dh140 Assignment 9
+--------------------
+* Assignment Content 
+> > This notebook contains an assignment from week 5. Datasets were obtained through the process of web scrapping off of the corgis webite. Exploratory analysis was taken place with multiple data sets with a few visualizations. 
 
-[`fastpages`](https://github.com/fastai/fastpages) will automatically convert [Jupyter](https://jupyter.org/) Notebooks saved into this directory as blog posts!
+To get to an interactive verison of this, click here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaeliniquez3/Assignment-9-.git/HEAD)
 
-You must save your notebook with the naming convention `YYYY-MM-DD-*.ipynb`.  Examples of valid filenames are:
-
-```shell
-2020-01-28-My-First-Post.ipynb
-2012-09-12-how-to-write-a-blog.ipynb
-```
-
-If you fail to name your file correctly, `fastpages` will automatically attempt to fix the problem by prepending the last modified date of your notebook. However, it is recommended that you name your files properly yourself for more transparency.
-
-See [Writing Blog Posts With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter) for more details.
+To get to the blog post, click here: 
+https://michaeliniquez3.github.io/Assignment-9-/
